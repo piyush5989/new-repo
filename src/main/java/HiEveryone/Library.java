@@ -5,6 +5,7 @@ package HiEveryone;
 
 public class Library {
     public boolean someLibraryMethod() {
+        //edit
         return true;
     }
 }
