@@ -2,6 +2,7 @@
 	"objects": [{
 		"application": "Local|Yael",
 		"name": "copy-1",
+		
 		"kind": "ApplicationVersion"
 	},
 	{
